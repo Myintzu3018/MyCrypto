@@ -1,6 +1,4 @@
-import { FC } from 'react';
-
-import translate, { Trans, translateMarker, translateRaw } from '@translations';
+, translateMarker, translateRaw } from '@translations';
 
 const Translate: FC = () => {
   const translateTest2 = translate('TRANSLATE_TEST_2');
